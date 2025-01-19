@@ -1,4 +1,4 @@
-                        DAILY
+                    "DAILY" - "Routine" - "Tracker"
 predefined format-achitecture for daily field to add task on
 
 auto numbering
