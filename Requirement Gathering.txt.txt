@@ -1,3 +1,4 @@
+                        DAILY
 predefined format-achitecture for daily field to add task on
 
 auto numbering
